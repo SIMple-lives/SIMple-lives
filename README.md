@@ -17,13 +17,8 @@
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="[https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/SIMple-lives/SIMple-lives/output/github-contribution-grid-snake-dark.svg)" />
-    
-    <source media="(prefers-color-scheme: light)" srcset="[https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/SIMple-lives/SIMple-lives/output/github-contribution-grid-snake.svg)" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  </picture>
+![](https://raw.githubusercontent.com/SIMple-lives/SIMple-lives/output/github-contribution-grid-snake-dark.svg)
+![](https://raw.githubusercontent.com/SIMple-lives/SIMple-lives/output/github-contribution-grid-snake.svg)
 
 </div>
 
