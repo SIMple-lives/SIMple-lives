@@ -57,6 +57,12 @@
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" width="250" height="250" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SIMple-lives/SIMple-lives/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SIMple-lives/SIMple-lives/main/profile-3d-contrib/profile-gitblock.svg" />
+  <img src="https://raw.githubusercontent.com/SIMple-lives/SIMple-lives/main/profile-3d-contrib/profile-night-rainbow.svg" />
+</picture>
+
 
 <!--
 **SIMple-lives/SIMple-lives** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
