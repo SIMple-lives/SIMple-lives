@@ -19,7 +19,7 @@
 
  <div>
     <a href="https:////future.thisis.host/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-    
+    <a href="https://space.bilibili.com/3461574968740776/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="https://blog.csdn.net/2301_79408531/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
     <a href="https://www.zhihu.com/people/future/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
@@ -78,5 +78,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<a href="https://space.bilibili.com/3461574968740776/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+
 -->
