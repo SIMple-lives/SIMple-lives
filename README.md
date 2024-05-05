@@ -40,10 +40,11 @@
 <tr><td>
 
 ### 🤺 About Me
-
-
+<!-- 鸭子 --->
+<img align="right" width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />&emsp;
 <p>&emsp;&emsp;嗨，你好，我是一名在读学生。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
+
 
 
 </td></tr>
@@ -52,13 +53,18 @@
 <!-- GitHub 数据统计 -->
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SIMple-lives&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SIMple-lives&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
+ <!-- 分割线 --->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
- 
-<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />&emsp;
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />
 
+ <!-- 老头加鸭子
+<img align="left" width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />&emsp;
+<img align="center" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" />
+&emsp;<img align="right" width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />
+--->
+
+<!-- 分割线 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+--->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SIMple-lives/SIMple-lives/main/profile-3d-contrib/profile-night-rainbow.svg" />
