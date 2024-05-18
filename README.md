@@ -22,7 +22,7 @@
     <a href="https://blog.csdn.net/2301_79408531/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
     <a href="https://www.zhihu.com/people/future/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+    <img src="https://komarev.com/ghpvc/?username=SIMple-lices&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
