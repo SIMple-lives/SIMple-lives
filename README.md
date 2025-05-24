@@ -44,6 +44,7 @@
 <img align="right" width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />&emsp;
 <p>&emsp;&emsp;嗨，你好，我是一名在读学生。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
+<p>&emsp;&emsp;email: nanhaolv@gmail.com.</p>
 <p>&emsp;&emsp;I'm interested in billiards.</p>
 
 </td></tr>
